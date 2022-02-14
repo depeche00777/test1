@@ -85,7 +85,7 @@ var mapOptions = {
     zoom: 17
 };
 
-var marker = new google.maps.Marker({
+var marker = new naver.maps.Marker({
     position: new naver.maps.LatLng(37.500148845880915, 127.02895351272205),
     map: map,
 });
