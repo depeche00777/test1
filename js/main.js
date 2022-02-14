@@ -86,8 +86,8 @@ var mapOptions = {
 };
 
 var marker = new naver.maps.Marker({
-    position: new naver.maps.LatLng(37.500148845880915, 127.02895351272205),
-    map: map,
+    position: new naver.maps.LatLng(37.500148, 127.028953),
+    map: map
 });
 
 
